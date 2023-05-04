@@ -1,0 +1,24 @@
+.topo {
+    background-color: #3d2f8e;
+    padding-top: 20px;
+    padding-bottom: 20px}
+.style1 {
+    color: #fff
+}
+.style2 {}
+.style3 {
+    color: #fff;
+    font-size: 64px}
+.bg {
+    background-color: #c4c4c4}
+.box-posts {
+    background-color: #fff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin-bottom: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px}
+.style4 {
+    margin-left: 0px}

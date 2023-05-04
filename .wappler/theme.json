@@ -1,0 +1,10 @@
+{
+  "bootstrap5": {
+    "basic": {
+      "primary": "#3D2F8E",
+      "headings-font-family": "Allan:400",
+      "font-family-base": "Inter:400"
+    },
+    "advanced": {}
+  }
+}
