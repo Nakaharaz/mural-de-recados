@@ -1,0 +1,21 @@
+{
+  "projectName": "mural",
+  "designFramework": "bootstrap5",
+  "projectLinksType": "site",
+  "projectServerModel": "PHP",
+  "styleFile": "/assets/css/style.css",
+  "assetsFolder": "/assets",
+  "targets": [
+    {
+      "name": "localhost",
+      "remoteURL": "https://www.dev.mural.com.br",
+      "access": "local"
+    }
+  ],
+  "frameworks": [],
+  "extensions": [],
+  "activeTarget": "localhost",
+  "useRouting": true,
+  "addBase": true,
+  "routingHandler": "apache"
+}
